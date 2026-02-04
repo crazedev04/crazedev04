@@ -1,123 +1,96 @@
-<img src="https://i.ibb.co/njpLWh3/javascript.gif" align="left" height="" width="100%" />
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### <div align="center">¡Hola! Mi nombre es Nicolás y soy un desarrollador full stack con experiencia en tecnologías como HTML, CSS, JavaScript, React, React Native, Redux, Postgres, Express y C#. Mi pasión es el desarrollo front-end, donde puedo crear experiencias de usuario atractivas y funcionales. Actualmente vivo en Dolores, Buenos Aires, y tengo un hijo de 6 años. Me encanta aprender nuevas tecnologías y estoy constantemente buscando desafíos y oportunidades para mejorar mis habilidades. Me gustaría combinar mis conocimientos y experiencia en desarrollo full stack con mi enfoque en el lado del front-end para proporcionar soluciones innovadoras y de alta calidad a mis clientes.
-
-Si estás interesado en saber más sobre mi experiencia, puedes contactarme por correo electrónico a logiudicenicolas04@gmail.com.</div>
-
-<br/>
-
-## Mi conjunto de habilidades
-
-### Frontend
+<!-- README: Versión estilo landing, en español. Reemplaza los enlaces de ejemplo cuando quieras. -->
 
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  </a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-  </a>
-  <a href="https://www.tailwindcss.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-  </a>
+  <h1 style="margin-bottom:6px">Nicolás — Desarrollador Full‑Stack</h1>
+  <p style="margin-top:0;color:#666;max-width:720px">Diseño y construyo experiencias web modernas con foco en front‑end: interfaces limpias, performance y productos que funcionan en producción.</p>
+  <p>
+    <a href="#proyectos" style="margin-right:8px">Portafolio</a>
+    •
+    <a href="#servicios" style="margin-left:8px">Servicios</a>
+    •
+    <a href="#contacto" style="margin-left:8px">Contacto</a>
+  </p>
 </div>
 
-### Backend
+---
+
+<h2 id="servicios">Servicios</h2>
+
+<div style="display:flex;gap:16px;flex-wrap:wrap">
+  <div style="flex:1;min-width:220px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fff">
+    <h3>Desarrollo Front‑end</h3>
+    <p>React, React Native, Next.js — interfaces accesibles y performantes.</p>
+  </div>
+  <div style="flex:1;min-width:220px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fff">
+    <h3>APIs y Backend</h3>
+    <p>Node.js, Express, PostgreSQL — endpoints robustos y escalables.</p>
+  </div>
+  <div style="flex:1;min-width:220px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fff">
+    <h3>Consultoría &amp; QA</h3>
+    <p>Arquitectura, revisiones de código y optimización de rendimiento.</p>
+  </div>
+</div>
+
+---
+
+<h2 id="proyectos">Proyectos destacados</h2>
+
+<div style="display:flex;gap:16px;flex-wrap:wrap">
+  <div style="flex:1;min-width:260px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fff">
+    <h4>Proyecto A</h4>
+    <p>Descripción corta del proyecto. <a href="https://example.com/proyecto-a">Ver proyecto</a></p>
+  </div>
+  <div style="flex:1;min-width:260px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fff">
+    <h4>Proyecto B</h4>
+    <p>Descripción corta del proyecto. <a href="https://example.com/proyecto-b">Ver proyecto</a></p>
+  </div>
+  <div style="flex:1;min-width:260px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fff">
+    <h4>Proyecto C</h4>
+    <p>Descripción corta del proyecto. <a href="https://example.com/proyecto-c">Ver proyecto</a></p>
+  </div>
+</div>
+
+> Nota: Reemplaza los enlaces de ejemplo por los reales cuando quieras.
+
+---
+
+<h2 id="stack">Stack y herramientas</h2>
 
 <div align="center">
-  <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-  </a>
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" style="margin:6px" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" style="margin:6px" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" style="margin:6px" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" style="margin:6px" />
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="Postgres" height="40" style="margin:6px" />
 </div>
 
-<br/>
+---
 
-## Conéctate conmigo
+<h2 id="stats">Estadísticas</h2>
 
 <div align="center">
-  <a href="https://github.com/oversightdolores" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/nicolas-lo-giudice" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/overcoding04" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=oversightdolores&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
 </div>
 
-<br/>
+---
 
-## Estadísticas de GitHub
+<h2 id="contacto">¿Hablamos?</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oversightdolores&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div style="text-align:center">
+  <p>Si querés trabajar juntos o consultar algo puntual, escribime:</p>
+  <p><a href="mailto:logiudicenicolas04@gmail.com">logiudicenicolas04@gmail.com</a></p>
+  <p>También podés dejar un mensaje en mi perfil de GitHub o LinkedIn.</p>
 </div>
 
-<br/>
+---
 
-## Últimas publicaciones en mi blog
+<h4>Editar enlaces</h4>
 
-<br/>
+Reemplaza los enlaces de ejemplo en la sección "Proyectos destacados" por tus URLs reales. Busca "example.com" y cámbialo por tu link.
 
-<div align="center">
-  <!-- Aquí puedes agregar tus últimas publicaciones de blog -->
-</div>
+---
 
-<br/>
+<div align="center" style="color:#666;margin-top:18px">README generado: versión compacta estilo landing — si querés, lo dejo bilingüe o con más secciones (testimonios, pricing, blog).</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oversigthdolores&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/overcode04" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
-  </a>
-</div>
-
-<br />
 
